@@ -1,5 +1,5 @@
-    ###Use XAMPP or any other local hosting software
-    ##For XAMPP : 
+    ### Use XAMPP or any other local hosting software
+    ## For XAMPP : 
     1.    Extract the zip files to xampp/htdocs/(choose the name you like)
     2.    run the xampp software, make sure Apache and MySQL has started
     3.    on your browser, type localhost/phpmyadmin
