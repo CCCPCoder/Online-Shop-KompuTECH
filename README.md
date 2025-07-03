@@ -1,4 +1,4 @@
-### Use XAMPP or other local hosting software that uses Apache and MySQL
+# Use XAMPP or other local hosting software that uses Apache and MySQL
 ## For XAMPP : 
 1.    Extract the zip files to xampp/htdocs/(choose the name you like)
 2.    run the xampp software, make sure Apache and MySQL has started
